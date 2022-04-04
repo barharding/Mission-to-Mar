@@ -14,6 +14,7 @@
 3.  Modify the page so that it is mobile responsive and add two additional Bootstrap components.  At the completion of deliverable # 3 the HTML responsive view is shown in figure 2.  And the restyled page leveraging index2.html is shown in figure 3.
 
 ***Figure 2: Responsive Web Page***
+
 ![iphone12 responsive view](/images/iphone12_responsive.png)
 
 ***Figure 3: Restyled Page***
