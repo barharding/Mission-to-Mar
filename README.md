@@ -11,7 +11,7 @@
 ***Figure 1: Mission to Mars***
 ![Mission to mars](/images/index_orig.png)
 
-3.  Modify the page so that it is mobile responsive and add two additional Bootstrap components.  At the completion of this deliverable the HTML responsive view is shown in figure 2 and the restyled page leveraging index2.html is shown in figure 3.
+3.  Modify the page so that it is mobile responsive and add two additional Bootstrap components.  At the completion of this deliverable the HTML responsive view is shown in figure 2 and figure 3 shows the restyled page leveraging index2.html.  
 
 ***Figure 2: Responsive Web Page***
 
