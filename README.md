@@ -1,8 +1,5 @@
 # Mission to Mars Web Scraping
 
-## Overview
-
-
 ## Deliverables
 
 1.  Update and test the module code in Juypter notebook to scrape the Mars Hemisphere website and store the titles and hemisphere image URLs in a dictionary.  Results are shown in the Mission_to_Mars_Challenge.ipynb file
